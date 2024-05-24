@@ -1,0 +1,17 @@
+
+<resources>
+    <string name="app_name">Almuerzos</string>
+    <string name="back_button">Volver</string>
+    <string name="cancel">Cancelar</string>
+    <string name="choose_accompaniment">Choose Accompaniment</string>
+    <string name="choose_entree">Choose Entree</string>
+    <string name="choose_side_dish">Choose Side Dish</string>
+    <string name="next">Siguiente</string>
+    <string name="order_checkout">Pago del pedido</string>
+    <string name="start_order">Iniciar pedido</string>
+    <string name="order_summary">Resumen</string>
+    <string name="subtotal">Subtotal: %s</string>
+    <string name="tax">IGV: %s</string>
+    <string name="total">Total: %s</string>
+    <string name="submit">Entregar</string>
+</resources>
